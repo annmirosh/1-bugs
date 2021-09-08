@@ -1,1 +1,0 @@
-[{"id":"e4bff16a-d4b5-8b19-cb80-730540a4d25f","parentId":"","request":{"text":"hi"},"response":"[{\"text\":\"hello\",\"rLoc\":{\"file\":\"project2\",\"line\":3},\"reqId\":\"1626274506857/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"project2\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
