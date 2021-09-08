@@ -1,4 +1,4 @@
-// {Name: Coffee}
+// {Name: Coffee}1
 // {Description: Provides instructions for brewing coffee.}
 // {Visibility: Admin}
 
